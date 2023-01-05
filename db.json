@@ -1,0 +1,84 @@
+{
+"riwayat_pengerjaan":[
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Ira Salma",
+            "mulai":"00:00",
+            "selesai":"10:00",
+            "tanggal":"2022-01-00",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Puput Anggraini",
+            "mulai":"01:10",
+            "selesai":"11:00",
+            "tanggal":"2022-01-01",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Zulaikha Aryani",
+            "mulai":"02:20",
+            "selesai":"12:00",
+            "tanggal":"2022-01-02",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Lantar Fabian",
+            "mulai":"03:30",
+            "selesai":"13:00",
+            "tanggal":"2022-01-03",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Sasha Purnama S.Farm",
+            "mulai":"04:40",
+            "selesai":"14:00",
+            "tanggal":"2022-01-04",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Bahuraksa Marpaung",
+            "mulai":"05:50",
+            "selesai":"15:00",
+            "tanggal":"2022-01-05",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Zizi Nasyiah",
+            "mulai":"06:60",
+            "selesai":"16:00",
+            "tanggal":"2022-01-06",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Ikin Gunawan",
+            "mulai":"07:70",
+            "selesai":"17:00",
+            "tanggal":"2022-01-07",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Cici Jelita",
+            "mulai":"08:80",
+            "selesai":"18:00",
+            "tanggal":"2022-01-08",
+            "evaluasi":"done"
+        },
+        {
+            "title":"Keperawatan Medikal Bedah",
+            "pasien":"Caturangga Perdana",
+            "mulai":"09:90",
+            "selesai":"19:00",
+            "tanggal":"2022-01-09",
+            "evaluasi":"done"
+        }
+    ]
+    }
